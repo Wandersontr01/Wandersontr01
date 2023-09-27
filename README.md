@@ -1,6 +1,6 @@
 
 
-<h2> Hi, i'm Wanderson!</h2>
+<h1> Hi, i'm Wanderson!</h1>
 <img align='right' src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="230">
 <p><em>🎓 Sistemas de Informação em <a href="https://www.faesa.br">Faesa Centro Universitário</a></em></p>
 <p><em>📊 Assistente Administrativo em transição de carreira.</em></p>
@@ -12,6 +12,7 @@
 ---
 
 <h3>Um pouco mais sobre mim...</h3>
+
 ```java
 public class DeveloperInfo {
     private String name = "Wanderson Gonçalves";
@@ -25,14 +26,9 @@ public class DeveloperInfo {
 }
 ```
 ---
-<div>
-  <p>🎓 Sistemas de Informação em <a href="https://www.faesa.br/" target="_blank">Faesa Centro Universitário</a>!</p>
-    <p>📊 Assistente Administrativo em transição de carreira.</p>
-    <p>💻🚀 Apaixonado por código!</p>
-    <p>🎯 Buscando oportunidades para ampliar meus conhecimentos e desenvolver minhas habilidades.</p>
-</div>
 
-🌐 Vamos conectar e explorar juntos o mundo da programação e da inovação! 🚀
+<h3>🌐 Vamos conectar e explorar juntos o mundo da programação e da inovação! 🚀</h3>
+
 <div>
     <a href="https://www.instagram.com/wanderson_gon/" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href, '_blank'); return false;">
         <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
