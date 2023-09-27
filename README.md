@@ -30,7 +30,7 @@ public class DeveloperInfo {
 <h3>🌐 Vamos conectar e explorar juntos o mundo da programação e da inovação! 🚀</h3>
 
 [![Linkedin: Wanderson](https://img.shields.io/badge/-wanderson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/wandersonfg/)
-[![Instagram: Wanderson](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white")](https://www.instagram.com/wanderson_gon)
+[![Instagram: Wanderson](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white")](https://www.instagram.com/wanderson_gon)
 
 
 <div>
