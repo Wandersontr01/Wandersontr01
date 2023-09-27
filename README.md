@@ -20,6 +20,14 @@
             this.course = "Sistemas de Informação - FAESA";
         }
     }
+    public static void main(String[] args) {
+        String name = "Wanderson Franca";
+
+        Wanderson wanderson = new Wanderson(name, new ArrayList<String>(), "Ferramentas", "Curso");
+        
+        // Agora a lista "code" já é iniciada preenchida com "Java" e "ABAP"
+    }
+}
 
 
 
