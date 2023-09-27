@@ -25,6 +25,20 @@ public class Wanderson {
     }
 }
 ```
+```java
+public class DeveloperInfo {
+    private String name = "Wanderson Gonçalves";
+    private String location = "Vitória-ES";
+    private String[] favoriteLanguages = {"Java", "Python", "ABAP"};
+    private String[] favoriteTechnologies = {"Spring Boot"};
+    private String[] socialLinks = {
+        "[GitHub](https://github.com/Wandersontr01)",
+        "[LinkedIn](www.linkedin.com/in/wandersonfg/)"
+    };
+}
+
+
+
 
 📊 Auxiliar administrativo em transição de carreira.    💻🚀 Apaixonado por código!
 
