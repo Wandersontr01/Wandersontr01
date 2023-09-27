@@ -26,16 +26,17 @@ public class DeveloperInfo {
 
 🌐 Vamos conectar e explorar juntos o mundo da programação e da inovação! 🚀
 <div>
-    <a href="https://www.instagram.com/wanderson_gon/" target="_blank">
-        <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    <a href="https://www.instagram.com/wanderson_gon/" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href, '_blank'); return false;">
+        <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>    
-    <a href="mailto:wanderson.f.g@hotmail.com" target="_blank">
-        <img loading="lazy" src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=mail.ru&logoColor=blue" target="_blank">
+    <a href="mailto:wanderson.f.g@hotmail.com" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href, '_blank'); return false;">
+        <img loading="lazy" src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=mail.ru&logoColor=blue">
     </a>
-    <a href="https://www.linkedin.com/in/wandersonfg/" target="_blank">
-        <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <a href="https://www.linkedin.com/in/wandersonfg/" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href, '_blank'); return false;">
+        <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>   
 </div>
+
 
 
 
