@@ -34,5 +34,5 @@ public class DeveloperInfo {
 </div>
 
 <div>
-    <a><img loading="lazy" src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966">Adoro me conectar com pessoas diferentes então se quiser dar um oi, ficarei feliz em te conhecer mais! :)</a>
+    <a><img loading="lazy" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fknowyourmeme.com%2Feditorials%2Fguides%2Fwhat-does-trad-mean-and-are-you-trad-the-meaning-behind-the-memetic-slang-term&psig=AOvVaw09ZxGvEoNk9kVuf-fzPND4&ust=1695915791187000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNCsgOWQy4EDFQAAAAAdAAAAABAE">Adoro me conectar com pessoas diferentes então se quiser dar um oi, ficarei feliz em te conhecer mais! :)</a>
 </div>
