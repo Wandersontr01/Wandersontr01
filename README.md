@@ -19,10 +19,12 @@ public class DeveloperInfo {
 
 <div>
   <p>🎓 Sistemas de Informação em <a href="https://www.faesa.br/" target="_blank">Faesa Centro Universitário</a>!</p>
+    <p>📊 Auxiliar administrativo em transição de carreira.</p>
+    <p>💻🚀 Apaixonado por código!</p>
+    <p>🎯 Buscando oportunidades para ampliar meus conhecimentos e desenvolver minhas habilidades.</p>
 </div>
-📊 Auxiliar administrativo em transição de carreira.    💻🚀 Apaixonado por código!
+    
 
-🎯 Buscando oportunidades para ampliar meus conhecimentos e desenvolver minhas habilidades.
 
 🌐 Vamos conectar e explorar juntos o mundo da programação e da inovação! 🚀
 <div>
