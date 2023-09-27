@@ -1,11 +1,11 @@
 
 
 <h2> Hi, i'm Wanderson!</h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="230">
 <p><em>🎓 Sistemas de Informação em <a href="https://www.faesa.br">Faesa Centro Universitário</a></em></p>
 
 
-![GIF](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
+
 
 
 
