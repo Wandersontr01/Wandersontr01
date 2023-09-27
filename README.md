@@ -41,6 +41,10 @@ public class DeveloperInfo {
     <p></p>
     <p></p>
     <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
     <h>Estatísticas 📊</h>
 </div>
 
