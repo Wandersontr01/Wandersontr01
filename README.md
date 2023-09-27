@@ -32,13 +32,7 @@ public class Wanderson {
 
 #🌐 Vamos conectar e explorar juntos o mundo da programação e da inovação! 🚀
 <div>
-<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    
- <a href="mailto:wanderson.f.g@hotmail.com">
-    <img loading="lazy" src="https://img.shields.io/badge/Hotmail-D14836?style=for-the-badge&logo=hotmail&logoColor=blue&labelColor=blue" target="_blank">
-  </a>
-    
-<a href="mailto:wanderson.f.g@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=mail.ru&logoColor=blue" target="_blank"></a>
-    
+<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>    
+<a href="mailto:wanderson.f.g@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=mail.ru&logoColor=blue" target="_blank"></a>
 <a href="https://www.linkedin.com/in/wandersonfg/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
