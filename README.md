@@ -3,9 +3,13 @@
 <h2> Hi, i'm Wanderson!</h2>
 <img align='right' src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="230">
 <p><em>🎓 Sistemas de Informação em <a href="https://www.faesa.br">Faesa Centro Universitário</a></em></p>
+<p><em>📊 Assistente Administrativo em transição de carreira.</em></p>
+<p><em>💻🚀 Apaixonado por código!</em></p>
+<p><em>🎯 Buscando oportunidades para ampliar meus conhecimentos e desenvolver minhas habilidades.</em></p>
+<br>
 
 
-
+---
 
 
 
