@@ -26,9 +26,11 @@ public class Wanderson {
 }
 ```
 
+#📊 Auxiliar administrativo em transição de carreira.
+#💻🚀 Apaixonado por código!
+#🎯 Buscando oportunidades para ampliar meus conhecimentos e desenvolver meus conhecimentos no universo do ABAP.
 
-
-
+#🌐 Vamos conectar e explorar juntos o mundo da programação e da inovação! 🚀
 <div>
 <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:wanderson.f.g@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Hotmail-D14836?style=for-the-badge&logo=hotml&logoColor=blue"%20target="_blank"></a>
