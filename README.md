@@ -1,7 +1,7 @@
 
 
 <h1> Hi, i'm Wanderson!</h1>
-<img align='right' src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="259">
+<img align='right' src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="230">
 <p><em>🎓 Sistemas de Informação em <a href="https://www.faesa.br">Faesa Centro Universitário</a></em></p>
 <p><em>📊 Assistente Administrativo em transição de carreira.</em></p>
 <p><em>💻🚀 Apaixonado por código!</em></p>
