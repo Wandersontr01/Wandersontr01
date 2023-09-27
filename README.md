@@ -26,8 +26,8 @@ public class Wanderson {
 }
 ```
 
-#📊 Auxiliar administrativo em transição de carreira.
-#💻🚀 Apaixonado por código!
+#📊 Auxiliar administrativo em transição de carreira.   #💻🚀 Apaixonado por código!
+
 #🎯 Buscando oportunidades para ampliar meus conhecimentos e desenvolver meus conhecimentos no universo do ABAP.
 
 #🌐 Vamos conectar e explorar juntos o mundo da programação e da inovação! 🚀
