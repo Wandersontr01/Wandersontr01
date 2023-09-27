@@ -26,11 +26,11 @@ public class Wanderson {
 }
 ```
 
-#📊 Auxiliar administrativo em transição de carreira.    💻🚀 Apaixonado por código!
+📊 Auxiliar administrativo em transição de carreira.    💻🚀 Apaixonado por código!
 
-#🎯 Buscando oportunidades para ampliar meus conhecimentos e desenvolver minhas habilidades.
+🎯 Buscando oportunidades para ampliar meus conhecimentos e desenvolver minhas habilidades.
 
-#🌐 Vamos conectar e explorar juntos o mundo da programação e da inovação! 🚀
+🌐 Vamos conectar e explorar juntos o mundo da programação e da inovação! 🚀
 <div>
 <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>    
 <a href="mailto:wanderson.f.g@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=mail.ru&logoColor=blue" target="_blank"></a>
