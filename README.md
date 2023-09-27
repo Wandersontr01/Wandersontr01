@@ -21,6 +21,7 @@ public class DeveloperInfo {
     private String[] favoriteTechnologies = {"Spring Boot"};
     private String[] socialLinks = {
         "[GitHub](https://github.com/Wandersontr01)",
+        "[Email](wanderson.f.g@hotmail.com)"
         "[LinkedIn](www.linkedin.com/in/wandersonfg/)"
     };
 }
