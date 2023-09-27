@@ -4,7 +4,7 @@
     </p>
 </div>
 
-![Texto alternativo](https://giphy.com/embed/iIqmM5tTjmpOB9mpbn)
+![GIF](https://giphy.com/embed/iIqmM5tTjmpOB9mpbn)
 
 
 
