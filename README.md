@@ -1,7 +1,7 @@
 
 
 <h1> Hi, i'm Wanderson!</h1>
-<img align='right' src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/B6wdZEDP2TXRkA83o5/giphy.gif" width="230">
 <p><em>🎓 Sistemas de Informação em <a href="https://www.faesa.br">Faesa Centro Universitário</a></em></p>
 <p><em>📊 Assistente Administrativo em transição de carreira.</em></p>
 <p><em>💻🚀 Apaixonado por código!</em></p>
@@ -29,19 +29,8 @@ public class DeveloperInfo {
 
 <h3>🌐 Vamos conectar e explorar juntos o mundo da programação e da inovação! 🚀</h3>
 
-<div>
-    <a href="https://www.instagram.com/wanderson_gon/" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href, '_blank'); return false;">
-        <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>    
-    <a href="mailto:wanderson.f.g@hotmail.com" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href, '_blank'); return false;">
-        <img loading="lazy" src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=mail.ru&logoColor=blue">
-    </a>
-    <a href="https://www.linkedin.com/in/wandersonfg/" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href, '_blank'); return false;">
-        <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>   
-</div>
-
-
+[![Linkedin: Wanderson](https://img.shields.io/badge/-wanderson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/wandersonfg/)
+[![Instagram: Wanderson](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white")](https://www.instagram.com/wanderson_gon)
 
 
 <div>
