@@ -4,7 +4,7 @@
     </p>
 </div>
 
-![GIF](https://giphy.com/embed/iIqmM5tTjmpOB9mpbn)
+![GIF](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
 
 
 
