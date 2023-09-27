@@ -4,6 +4,8 @@
     </p>
 </div>
 
+<iframe src="https://giphy.com/embed/ZVik7pBtu9dNS" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/life-interesting-footage-ZVik7pBtu9dNS">via GIPHY</a></p>
+
 ```java
 public class DeveloperInfo {
     private String name = "Wanderson Gonçalves";
@@ -17,12 +19,12 @@ public class DeveloperInfo {
 }
 ```
 ---
-|<div>
+<div>
   <p>🎓 Sistemas de Informação em <a href="https://www.faesa.br/" target="_blank">Faesa Centro Universitário</a>!</p>
     <p>📊 Assistente Administrativo em transição de carreira.</p>
     <p>💻🚀 Apaixonado por código!</p>
     <p>🎯 Buscando oportunidades para ampliar meus conhecimentos e desenvolver minhas habilidades.</p>
-</div>| <iframe src="https://giphy.com/embed/ZVik7pBtu9dNS" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/life-interesting-footage-ZVik7pBtu9dNS">via GIPHY</a></p> |
+</div>
 
 🌐 Vamos conectar e explorar juntos o mundo da programação e da inovação! 🚀
 <div>
