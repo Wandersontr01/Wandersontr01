@@ -3,28 +3,7 @@
         Hi, i'm Wanderson! 
     </p>
 </div>
-    
-```java
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
 
-public class Wanderson {
-    private String name;
-    private List<String> code;
-    private String tools;
-    private List<String> databases;
-    private String course;
-
-    public Wanderson(String name, List<String> code, String tools, List<String> databases, String course) {
-        this.name = "Wanderson";
-        this.code = new ArrayList<>(Arrays.asList("Java", "Python", "ABAP"));
-        this.tools = "Spring Boot";
-        this.databases = new ArrayList<>(Arrays.asList("Oracle", "MySQL", "MongoDB"));
-        this.course = "Sistemas de Informação - FAESA";
-    }
-}
-```
 ```java
 public class DeveloperInfo {
     private String name = "Wanderson Gonçalves";
@@ -36,8 +15,6 @@ public class DeveloperInfo {
         "[LinkedIn](www.linkedin.com/in/wandersonfg/)"
     };
 }
-
-
 
 
 📊 Auxiliar administrativo em transição de carreira.    💻🚀 Apaixonado por código!
