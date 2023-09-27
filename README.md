@@ -15,8 +15,11 @@ public class DeveloperInfo {
         "[LinkedIn](www.linkedin.com/in/wandersonfg/)"
     };
 }
+```
 
-
+<div>
+  <p>🎓 Sistemas de Informação em <a href="https://www.faesa.br/" target="_blank">Faesa Centro Universitário</a>!</p>
+</div>
 📊 Auxiliar administrativo em transição de carreira.    💻🚀 Apaixonado por código!
 
 🎯 Buscando oportunidades para ampliar meus conhecimentos e desenvolver minhas habilidades.
