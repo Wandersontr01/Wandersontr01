@@ -11,9 +11,7 @@
 
 ---
 
-
-
-
+<h3>Um pouco mais sobre mim...</h3>
 ```java
 public class DeveloperInfo {
     private String name = "Wanderson Gonçalves";
