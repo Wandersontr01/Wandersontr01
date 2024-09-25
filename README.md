@@ -12,18 +12,43 @@
 
 <h3>Um pouco mais sobre mim...</h3>
 
-```java
-public class DeveloperInfo {
-    private String name = "Wanderson Gonçalves";
-    private String location = "Vitória-ES";
-    private String[] favoriteLanguages = {"Java", "Python", "ABAP"};
-    private String[] favoriteTechnologies = {"Spring Boot"};
-    private String[] socialLinks = {
-        "[GitHub](https://github.com/Wandersontr01)",
-        "[Email](wanderson.f.g@hotmail.com)"
-        "[LinkedIn](www.linkedin.com/in/wandersonfg/)"
-    };
-}
+```abap
+REPORT zwanderson_franca NO STANDARD PAGE HEADING.
+
+TYPES: BEGIN OF ty_stack,
+         lv_language TYPE char20,
+       END OF ty_stack.
+
+TYPES: BEGIN OF ty_social,
+         lv_link TYPE char100,
+       END OF ty_social.
+
+TYPES: BEGIN OF ty_wanderson,
+         lv_name     TYPE char50,
+         lv_location TYPE char30,
+         lt_stack    TYPE STANDARD TABLE OF ty_stack WITH EMPTY KEY, 
+         lt_social   TYPE STANDARD TABLE OF ty_social WITH EMPTY KEY,
+       END OF ty_wanderson.
+
+DATA: ls_wanderson TYPE ty_wanderson,
+      lt_stack     TYPE STANDARD TABLE OF ty_stack WITH EMPTY KEY,
+      lt_social    TYPE STANDARD TABLE OF ty_social WITH EMPTY KEY.
+
+* Linguagens Favoritas
+APPEND VALUE #( lv_language = 'Java'   ) TO lt_stack.
+APPEND VALUE #( lv_language = 'ABAP'   ) TO lt_stack.
+
+* Contatos
+APPEND VALUE #( lv_link = 'GitHub: https://github.com/Wandersontr01'   ) TO lt_social.
+APPEND VALUE #( lv_link = 'Email: wanderson.f.g@hotmail.com'           ) TO lt_social.
+APPEND VALUE #( lv_link = 'LinkedIn: www.linkedin.com/in/wandersonfg/' ) TO lt_social.
+
+* Informações
+ls_wanderson = VALUE #( lv_name = 'Wanderson Franca Gonçalves'
+                        lv_location = 'Vitória/ES'
+                        lt_stack    = lt_stack
+                        lt_social   = lt_social
+                      ).
 ```
 ---
 
@@ -35,7 +60,7 @@ public class DeveloperInfo {
 
 
 <div>
-    <a><img loading="lazy" src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="54" height="54">Adoro me conectar com pessoas diferentes então se quiser dar um oi, ficarei feliz em te conhecer! :)</a>
+    <a><img loading="lazy" src="https://github.com/user-attachments/assets/f70a795b-7e99-47d2-8734-881d86651124" width="54" height="54">Adoro me conectar com pessoas diferentes então se quiser dar um oi, ficarei feliz em te conhecer! :)</a>
 </div>
 
 ---
